@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who are you?",
+    "answer": "Replace this with your own answer. Example: I'm [Your Name], a [your role] based in [your location]. I'm passionate about [your interests]."
+  },
+  {
+    "question": "What are your main skills?",
+    "answer": "Replace with your skills. Example: My primary languages are Python and JavaScript. I have experience with machine learning using TensorFlow and scikit-learn."
+  },
+  {
+    "question": "What projects have you built?",
+    "answer": "Replace with your projects. Example: My most recent project is [project name] — a [what it does] built with [tech stack]."
+  },
+  {
+    "question": "What are your career goals?",
+    "answer": "Replace with your goals. Example: I want to work in [field] and eventually specialize in [area]. I'm actively looking for [type of role] positions."
+  },
+  {
+    "question": "How can I contact you?",
+    "answer": "Replace with your contact info. Example: You can reach me at [email] or connect on LinkedIn at [url]."
+  }
+]
