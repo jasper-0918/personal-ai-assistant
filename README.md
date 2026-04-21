@@ -7,14 +7,7 @@ Built to act as a second version of you: it knows your background, speaks in you
 ---
 
 ## Demo
-
-<!-- ================================================================
-  REPLACE THE LINK BELOW WITH YOUR YOUTUBE VIDEO URL AFTER UPLOADING
-  Example: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-  The thumbnail will automatically appear on GitHub once the link is real.
-  ================================================================ -->
-
-[![Personal AI Virtual Assistant — Full Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Personal AI Virtual Assistant — Full Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=FMhmYBMjYq0)
 
 > *Click the thumbnail above to watch the full demo on YouTube.*
 
